@@ -1,8 +1,8 @@
 namespace Hardware_Shop_Management_System
 {
-    public partial class Form1 : Form
+    public partial class login : Form
     {
-        public Form1()
+        public login()
         {
             InitializeComponent();
         }
